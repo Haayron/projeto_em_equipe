@@ -1,4 +1,4 @@
-#Projeto em Equipe - Exemplo
+# Projeto em Equipe - Exemplo
 
 ### Introdução
 Este é um exemplo de projeto em equipe (colaborativo) utilizando Git e GitHub.
