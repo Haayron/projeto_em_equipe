@@ -14,7 +14,7 @@ NOTA: Nunca devem preencher os seus dados reais no ficheiro .env.example
 ### Credenciais de Exemplo
 
 ```
-MYSQL_HOST-localhost
+MYSQL_HOST=localhost
 MYSQL_USER=seu_usuario
 MYSQL_PASSWORD=sua_senha
 MYSQL_DB=seu_banco_de_dados
